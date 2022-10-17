@@ -16,6 +16,11 @@ h1 + img {
     height: auto;
 }
 
+p.description {
+    color: #423f33;
+    text-align: center;
+}
+
 .odd {
     list-style: none;
     color: #1C6758;
