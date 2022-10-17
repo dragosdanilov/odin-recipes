@@ -10,3 +10,8 @@ h2 {
     color: #3D8361;
     text-align: center;
 }
+
+h1 + img {
+    width: 400px;
+    height: auto;
+}
