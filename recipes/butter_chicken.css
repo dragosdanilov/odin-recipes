@@ -15,3 +15,9 @@ h1 + img {
     width: 400px;
     height: auto;
 }
+
+.odd {
+    list-style: none;
+    color: #1C6758;
+    text-align: center;
+}
