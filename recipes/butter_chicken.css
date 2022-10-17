@@ -21,3 +21,9 @@ h1 + img {
     color: #1C6758;
     text-align: center;
 }
+
+.even {
+    list-style: none;
+    color: #423f33;
+    text-align: center;
+}
