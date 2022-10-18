@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1C6758;
+    color: #EEF2E6;
+    text-align: center;
+}
+
+h2 {
+    background-color: #EEF2E6;
+    color: #3D8361;
+    text-align: center;
+}
+
+h1 + img {
+    width: 400px;
+    height: auto;
+}
+
+p.description {
+    color: #423f33;
+    text-align: center;
+}
+
+.odd {
+    list-style: none;
+    color: #1C6758;
+    text-align: center;
+}
+
+.even {
+    list-style: none;
+    color: #423f33;
+    text-align: center;
+}
+
+ol.steps {
+    color: #423f33;
+    text-align: left;
+}
+
+a.return {
+    text-decoration: none;
+    color: #1C6758;
+    font-weight: 800;
+}
