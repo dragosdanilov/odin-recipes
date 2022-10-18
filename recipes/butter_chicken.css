@@ -37,3 +37,9 @@ ol.steps {
     color: #423f33;
     text-align: left;
 }
+
+a.return {
+    text-decoration: none;
+    color: #1C6758;
+    font-weight: 800;
+}
