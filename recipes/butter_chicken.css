@@ -32,3 +32,8 @@ p.description {
     color: #423f33;
     text-align: center;
 }
+
+ol.steps {
+    color: #423f33;
+    text-align: left;
+}
